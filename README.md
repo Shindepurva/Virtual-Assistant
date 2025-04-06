@@ -1,1 +1,2 @@
 # Virtual-Assistant
+Shifra is a responsive virtual assistant developed using HTML, CSS, and JavaScript, designed to facilitate seamless interactions for users. With a clean and modern interface, Shifra offers easy navigation on both desktop and mobile devices, ensuring a visually appealing experience. Powered by JavaScript, it efficiently processes user inputs in real-time, providing quick answers to queries and assisting with tasks like scheduling and problem-solving. Shifra is an ideal lightweight assistant for enhancing productivity and simplifying daily tasks.
